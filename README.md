@@ -1,0 +1,1 @@
+# aws-sbg-email-assets
